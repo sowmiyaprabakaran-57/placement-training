@@ -29,3 +29,11 @@ Issue Type: Warning
 Description: Loop can be optimized using list comprehension.
 Commit ID: abc1237
 -------------------------------
+
+File: main.py
+Line: 10
+Issue Type: Best Practice
+Description: Use `f-strings` instead of string concatenation for better readability.
+Commit ID: xyz7891
+-------------------------------
+
