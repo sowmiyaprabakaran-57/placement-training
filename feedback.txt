@@ -1,0 +1,31 @@
+===============================
+AI Code Review Feedback
+===============================
+
+File: main.py
+Line: 10
+Issue Type: Bug
+Description: Syntax error: missing ':' in function definition.
+Commit ID: abc1234
+-------------------------------
+
+File: utils.py
+Line: 25
+Issue Type: Warning
+Description: Unused variable 'temp_var'.
+Commit ID: abc1235
+-------------------------------
+
+File: db.py
+Line: 42
+Issue Type: Best Practice
+Description: Use environment variables instead of hardcoded database credentials.
+Commit ID: abc1236
+-------------------------------
+
+File: app.py
+Line: 18
+Issue Type: Warning
+Description: Loop can be optimized using list comprehension.
+Commit ID: abc1237
+-------------------------------
